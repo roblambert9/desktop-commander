@@ -1,0 +1,29 @@
+{
+  "name": "@roblambert9/desktop-commander",
+  "version": "1.0.0",
+  "description": "Desktop automation MCP server for file operations, process management, and system control with autonomous x402 pay-per-call rails. Wrapped with @monetize x402 rails.",
+  "main": "server.py",
+  "bin": {
+    "desktop-commander": "server.py"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "@monetize",
+    "x402",
+    "solana",
+    "usdc",
+    "ai-agents",
+    "nanoempire",
+    "desktop",
+    "automation",
+    "filesystem",
+    "shell"
+  ],
+  "author": "Rob Lambert <roblambert9@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roblambert9/desktop-commander.git"
+  }
+}
